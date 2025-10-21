@@ -77,3 +77,13 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
+## Capitolul 4
+Arrays.binarySearch în Java, ce permite cautarea eficienta intr-un array ce se presupune ca ar fi sortat. Ce e cam weird ar fi ce returneaza cand nu gaseste elementul cautat, ca este o valoare negativa calculata ca -(inseration point) - 1.
+In schimb daca array-ul nu este sorta, rezultatul este imprevizibil.
+
+Alta chestie interesanta ar fi Arrays.compare în Java, care permite compararea a două array-uri.
+
+- daca ambele array-uri sunt egale -- 0
+- daca primul array este mai mic (dpdv al ) -- o valoare negativa
+- daca primul array este lexicografic mai mare -- o valoare pozitiva
+

@@ -1,4 +1,4 @@
-package org.example.capitol2;
+package org.example.week_1.capitol2;
 
 public class LongNumberTesting {
     public static void main(String[] args) {

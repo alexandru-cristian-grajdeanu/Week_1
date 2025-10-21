@@ -1,4 +1,4 @@
-package org.example.capitol1;
+package org.example.week_1.capitol1;
 
 // da e posibil
 public class Var {

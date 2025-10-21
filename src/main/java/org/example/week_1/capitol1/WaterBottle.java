@@ -1,4 +1,4 @@
-package org.example.capitol1;
+package org.example.week_1.capitol1;
 
 public class WaterBottle {
     private String brand;
