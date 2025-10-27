@@ -87,3 +87,10 @@ Alta chestie interesanta ar fi Arrays.compare în Java, care permite compararea 
 - daca primul array este mai mic (dpdv al ) -- o valoare negativa
 - daca primul array este lexicografic mai mare -- o valoare pozitiva
 
+## Capitolul 5
+
+Am mai descoperit 2 keyword uri noi: native (pentru interactiune cu cod scris in alte limbaje) si strictfp (pentru a asigura consistenta calculelor cu numere in virgula mobila pe diferite platforme).
+
+Alt concept interesant este _autoboxing_ si _unboxing_ în Java, care permite conversia automată între tipurile primitive și obiectele wrapper corespunzătoare.
+
+

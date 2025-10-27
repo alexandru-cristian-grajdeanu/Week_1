@@ -41,15 +41,15 @@ public class TestingCap4 {
 //        if ("Hello".intern() == t) System.out.println("five");
 //        // Output: one three four
 
-        var sb = new StringBuilder();
-        sb.append("aaa").insert(1, "bb").insert(4, "ccc");
-        System.out.println(sb.toString());
-        // abbaccca
-
-        double one = Math.pow(1,2);
-        int two = Math.round(1.0); //cere float si ii dau double
-        float three = Math.random(); //returneaza double si il stochez in float
-        var doubles = new double[] {one, two, three};
+//        var sb = new StringBuilder();
+//        sb.append("aaa").insert(1, "bb").insert(4, "ccc");
+//        System.out.println(sb.toString());
+//        // abbaccca
+//
+//        double one = Math.pow(1,2);
+//        int two = Math.round(1.0); //cere float si ii dau double
+//        float three = Math.random(); //returneaza double si il stochez in float
+//        var doubles = new double[] {one, two, three};
 
 
 
