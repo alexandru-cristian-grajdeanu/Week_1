@@ -19,3 +19,28 @@
 17. C, F
 18. D
 19. B desi tind spre F
+20. E
+21. B, F, G
+
+## Cap. 7
+1. E
+2. A, B, D, E
+3. C,
+4. C - ca Armadilo ar trb sa fie final sau non-sealed
+5. E
+6. D, E
+7. B
+8. B
+9. A, E, F
+10. G  - ca ii scris codu anapoda
+11. C
+12. A, D, E, F, 
+13. G
+14. A, B, C, E, 
+15. F desi daca s a r ignora declararea lui g, C ar fi corect
+16. E
+17. E, G
+18. E
+19. F
+20. A
+21. F
