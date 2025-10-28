@@ -44,3 +44,26 @@
 19. F
 20. A
 21. F
+
+## Cap. 8
+1. A
+2. C
+3. C, A, D, 
+4. A, D, F
+5. C, D, E
+6. A, C
+7. E
+8. E
+9. A, F
+10. E
+11. B / verificat e D pt ca avem var in loc de Predicate\<String\>
+12. A
+13. E
+14. B, D, 
+15. A, F
+16. E
+17. C
+18. F, G, B
+19. F, B, C, 
+20. E
+21. E, F, A, 
